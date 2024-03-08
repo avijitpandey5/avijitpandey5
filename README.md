@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **different personal projects and learning new stuff.**
 
-- 🌱 I’m currently learning **C++, React and related technologies**
+- 🌱 I’m currently learning **React and related technologies**
 
 - 🎓 I am a Third year Bachelor of Technology Computer Science student **at Chhatrapati Shahu Ji Maharaj University, Kanpur.**
 
