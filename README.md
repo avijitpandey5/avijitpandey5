@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and related technologies**
 
-- 🎓 I am a Third year Bachelor of Technology Computer Science student **at Chhatrapati Shahu Ji Maharaj University, Kanpur.**
+- 🎓 I am a final year Bachelor of Technology Computer Science student **at Chhatrapati Shahu Ji Maharaj University, Kanpur.**
 
 - 💬 Ask me about **react,javascript,dsa(c++)**
 
